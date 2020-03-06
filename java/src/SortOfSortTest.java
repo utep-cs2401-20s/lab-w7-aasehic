@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SortOfSortTest {
-    // Generic Test to ensure that the code runs properly
+    // Generic Test to ensure that the code runs properly :)
     @Test
     public void sortOfSort() {
         int[] A = {1,4,3,17,44,6};
